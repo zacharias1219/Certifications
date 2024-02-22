@@ -27,6 +27,47 @@ IBM Skillshare:
 
 ## Courses
 
+Generative AI (Google):
+
+[Generative.pdf](https://github.com/zacharias1219/Certifications/files/14377659/Generative.pdf)
+
+Data Analytics Essentials (Cisco):
+
+[Data_Analytics_Essentials_Badge20240208-29-wu5oth.pdf](https://github.com/zacharias1219/Certifications/files/14377628/Data_Analytics_Essentials_Badge20240208-29-wu5oth.pdf)
+
+AWS For Beginners:
+
+[AWS_For_Beginners.pdf](https://github.com/zacharias1219/Certifications/files/14377596/AWS_For_Beginners.pdf)
+
+Introduction to Artificial Intelligence (Linkedin):
+
+[CertificateOfCompletion_Introduction to Artificial Intelligence.pdf](https://github.com/zacharias1219/Certifications/files/14377682/CertificateOfCompletion_Introduction.to.Artificial.Intelligence.pdf)
+
+Clean Code (Udemy):
+
+[Clean_Code.pdf](https://github.com/zacharias1219/Certifications/files/14377611/Clean_Code.pdf)
+
+Machine Learning Pipeline with Azure (Coursera):
+
+[Coursera 3JJPQBGFYMJJ.pdf](https://github.com/zacharias1219/Certifications/files/14377617/Coursera.3JJPQBGFYMJJ.pdf)
+
+Digital Marketing (Internshala):
+
+[Digital_marketing.pdf](https://github.com/zacharias1219/Certifications/files/14377638/Digital_marketing.pdf)
+
+
+Python Basic (HackerRank):
+
+
+[python_basic certificate.pdf](https://github.com/zacharias1219/Certifications/files/14377692/python_basic.certificate.pdf)
+
+
+Python for Data Science and Machine Learning (Udemy):
+
+[Python-for-DS-and-ML.pdf](https://github.com/zacharias1219/Certifications/files/14377695/Python-for-DS-and-ML.pdf)
+
+
+
 ## Volunteering
 
 FrostHacks:
