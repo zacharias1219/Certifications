@@ -19,7 +19,8 @@ Ineuron:
 
 [98483665-8708-4499-8119-a8e1e8372edb.pdf](https://github.com/zacharias1219/Certifications/files/14377502/98483665-8708-4499-8119-a8e1e8372edb.pdf)
 
-[98483665-8708-4499-8119-a8e1e8372edb.pdf](https://github.com/zacharias1219/Certifications/files/14377506/98483665-8708-4499-8119-a8e1e8372edb.pdf)
+[7cd46762-923d-4f1a-8556-b9663867ffb5 (1).pdf](https://github.com/zacharias1219/Certifications/files/14377737/7cd46762-923d-4f1a-8556-b9663867ffb5.1.pdf)
+
 
 IBM Skillshare:
 
